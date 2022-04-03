@@ -1,5 +1,5 @@
 const customSetting = {
-    siteName: 'OneDrive 对象存储',
+    siteName: process.env.SITE_NAME,
     index: {
         backgroundImage: '/api/bingPic',
         title: 'OneDrive',
