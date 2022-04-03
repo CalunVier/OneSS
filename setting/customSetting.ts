@@ -1,7 +1,7 @@
 const customSetting = {
     siteName: 'OneDrive 对象存储',
     index: {
-        backgroundImage: '/api/randomPic',
+        backgroundImage: 'https://api.mtyqx.cn/api/random.php',
         title: 'OneDrive',
         introduction: 'Kared的文件数据对象存储服务'
     },
