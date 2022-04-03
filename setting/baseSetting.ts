@@ -1,5 +1,5 @@
 const baseSetting = {
-    folder: "/OneSS",
+    folder: "/对象存储",
     authorization: {
         client_id: process.env.CLIENT_ID!,
         scope: "https://graph.microsoft.com/.default",
