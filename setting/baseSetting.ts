@@ -1,5 +1,5 @@
 const baseSetting = {
-    folder: "/对象存储",
+    folder: process.env.ONEDRIVE_ROOT,
     authorization: {
         client_id: process.env.CLIENT_ID!,
         scope: "https://graph.microsoft.com/.default",
