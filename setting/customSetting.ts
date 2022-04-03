@@ -3,7 +3,7 @@ const customSetting = {
     index: {
         backgroundImage: '/api/bingPic',
         title: 'OneDrive',
-        introduction: 'Kared的文件数据对象存储服务'
+        introduction: 'Kared的网络硬盘对象存储服务'
     },
     link: {
         github: 'https://github.com/huarzone/',
