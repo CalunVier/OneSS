@@ -9,7 +9,7 @@ const customSetting = {
         github: 'https://github.com/huarzone/OneSS',
         mail: {
             enable: true,
-            link: 't@dzaaaaaa.com'
+            link: 'kared@huarzone.com'
         },
         twitter: {
             enable: true,
