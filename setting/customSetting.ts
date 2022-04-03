@@ -1,27 +1,27 @@
 const customSetting = {
-    siteName: process.env.SITE_NAME,
+    siteName: process.env.SITE_TITLE,
     index: {
         backgroundImage: '/api/bingPic',
-        title: 'OneDrive',
-        introduction: 'Kared的网络硬盘对象存储服务'
+        title: process.env.INDEX_TITLE,
+        introduction: process.env.INDEX_INTRO
     },
     link: {
-        github: 'https://github.com/huarzone/',
+        github: process.env.MY_GITHUB,
         mail: {
             enable: true,
-            link: 'kared@huarzone.com'
+            link: process.env.MY_EMAIL
         },
         twitter: {
             enable: true,
-            link: 'https://twitter.com/'
+            link: process.env.MY_TWITTER
         },
         bilibili: {
             enable: true,
-            link: 'https://bilibili.com/'
+            link: process.env.MY_BILIBILI
         },
         youtube: {
-            enable: false,
-            link: 'kared@huarzone.com'
+            enable: true,
+            link: process.env.MY_YOUTUBE
         },
     },
 }
