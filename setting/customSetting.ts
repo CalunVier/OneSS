@@ -6,7 +6,7 @@ const customSetting = {
         introduction: 'Kared的文件数据对象存储服务'
     },
     link: {
-        github: 'https://github.com/huarzone/OneSS',
+        github: 'https://github.com/huarzone/',
         mail: {
             enable: true,
             link: 'kared@huarzone.com'
