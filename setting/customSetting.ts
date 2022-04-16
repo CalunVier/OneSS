@@ -20,7 +20,7 @@ const customSetting = {
             link: "https://bilibili.com/"
         },
         youtube: {
-            enable: false
+            enable: false,
             link: "https://www.youtube.com/"
         },
     },
